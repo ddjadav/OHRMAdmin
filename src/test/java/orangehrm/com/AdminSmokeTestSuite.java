@@ -35,7 +35,10 @@ public class AdminSmokeTestSuite extends BaseTest {
     public void dilip(){
 
     }
+    @Test
+    public void jagdish(){
 
+    }
 
     @Test
     public void verifyAdminCanAddAnEmployee()
