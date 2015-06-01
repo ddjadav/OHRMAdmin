@@ -37,6 +37,7 @@ public class AdminSmokeTestSuite extends BaseTest {
     }
     @Test
     public void jagdish(){
+        int a;
 
     }
 
