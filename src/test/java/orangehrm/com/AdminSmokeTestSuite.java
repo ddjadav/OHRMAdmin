@@ -41,6 +41,8 @@ public class AdminSmokeTestSuite extends BaseTest {
 int a;
 
     }
+    @Test
+    public void ffff(){}
 
 
     @Test
