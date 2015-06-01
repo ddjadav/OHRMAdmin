@@ -31,6 +31,10 @@ public class AdminSmokeTestSuite extends BaseTest {
         String usrname="username"+ format.format(new Date());
         System.out.print(usrname);
     }
+    @Test
+    public void dilip(){
+        
+    }
 
 
     @Test
