@@ -50,7 +50,7 @@ int a;
 
 @Test
 public void nurr(){
-    int a;
+    int b;
 
 }
     @Test
