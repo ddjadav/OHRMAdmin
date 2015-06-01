@@ -37,22 +37,12 @@ public class AdminSmokeTestSuite extends BaseTest {
 
     }
     @Test
-    public void fuckOOOOOFFFF(){
-        int a;
-
-    }
-
-    @Test
     public void doctor(){
 int a;
 
     }
 
-@Test
-public void nurr(){
-    int b;
 
-}
     @Test
     public void verifyAdminCanAddAnEmployee()
     {
