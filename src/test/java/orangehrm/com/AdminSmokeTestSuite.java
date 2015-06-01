@@ -48,7 +48,11 @@ int a;
 
     }
 
+@Test
+public void nurr(){
+    int a;
 
+}
     @Test
     public void verifyAdminCanAddAnEmployee()
     {
