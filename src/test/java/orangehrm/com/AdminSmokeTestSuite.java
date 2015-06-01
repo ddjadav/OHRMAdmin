@@ -34,6 +34,12 @@ public class AdminSmokeTestSuite extends BaseTest {
     @Test
     public void dilip(){
 
+
+    }
+    @Test
+    public void doctor(){
+int a;
+
     }
     @Test
     public void jagdish(){
