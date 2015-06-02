@@ -24,8 +24,6 @@ public class Utils extends BaseClass {
         wait.until(ExpectedConditions.visibilityOfElementLocated(by));
     }
 
-
-
     public static boolean isTextPresent(String text)
     {
         return driver.findElement(By.tagName("body")).getText().contains(text);
