@@ -16,9 +16,9 @@ public class BaseTest extends BaseClass {
     public void setUp()
     {
         driver=new FirefoxDriver();
-    driver.get("http://insoftt.trial47.orangehrmlive.com/");
-    driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-    driver.manage().window().maximize();
+        driver.get("http://insoftt.trial47.orangehrmlive.com/");
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.manage().window().maximize();
     }
 
     @After
