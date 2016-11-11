@@ -2,7 +2,7 @@ package orangehrm.com;
 
 import org.junit.After;
 import org.junit.Before;
-import org.openqa.selenium.browserlaunchers.locators.FirefoxLocator;
+import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
